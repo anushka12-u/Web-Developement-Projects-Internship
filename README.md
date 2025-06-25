@@ -1,7 +1,8 @@
 # Web-Developement-Projects-Internship
 The repository contains projects made by me as Web developer intern at Tamizhan Skills.
-About Projects:
-Project 3:Downloadable Resume Generator with preview.
+About Projects: 
+Project 3:
+Objective: Downloadable Resume Generator with preview.
 Use HTML,CSS and javascript to build the resume generator,
 Key Features
 1) Form with personal, educational, and experience details
